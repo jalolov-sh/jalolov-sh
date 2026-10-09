@@ -23,11 +23,11 @@
 const shakhobiddin = {
   location: "Tashkent, Uzbekistan 🇺🇿",
   role: "Full-Stack Developer",
-  frontend: ["React", "TypeScript", "Vite", "Tailwind CSS", "shadcn/ui"],
+  frontend: ["React", "TypeScript", "Vite", "Tailwind", "shadcn/ui"],
   backend: ["Oracle Database", "PL/SQL", "Oracle APEX"],
   domain: "InsurTech: claims, policies, document flow",
   quality: ["Vitest", "Playwright", "ESLint", "a11y checks"],
-  sideQuest: "BOZORLIK: Chorsu tunda, a co-op horror-comedy game (Unity 6 + Blender)",
+  sideQuest: "BOZORLIK: Chorsu tunda (co-op horror game, Unity 6)",
 };
 ```
 
