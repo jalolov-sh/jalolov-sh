@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Shakhobiddin Jalolov, full-stack developer from Tashkent, Uzbekistan">
+<title>Shakhobiddin Jalolov, full-stack developer from Tashkent, Uzbekistan</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1320"/><stop offset="1" stop-color="#0B1B21"/></linearGradient>
+<linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22B8D6"/><stop offset="1" stop-color="#34D36B"/></linearGradient>
+<clipPath id="clip"><rect width="1000" height="340" rx="18"/></clipPath>
+
+<linearGradient id="name" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#FFFFFF"/><stop offset=".5" stop-color="#9EEAFF"/><stop offset="1" stop-color="#A6F5C2"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="7s" repeatCount="indefinite"/>
+</linearGradient>
+<filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="60"/></filter>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#FFF"/></pattern>
+<radialGradient id="dotfade" cx=".8" cy=".5" r=".6"><stop offset="0" stop-color="#FFF"/><stop offset="1" stop-color="#FFF" stop-opacity="0"/></radialGradient>
+<mask id="dotmask"><rect width="1000" height="340" fill="url(#dotfade)"/></mask>
+</defs>
+<style>
+text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.tw{opacity:.2;animation:tw 3s ease-in-out infinite}@keyframes tw{0%,100%{opacity:.12}50%{opacity:.85}}
+.b1{animation:d1 17s ease-in-out infinite alternate}
+.b2{animation:d2 21s ease-in-out infinite alternate}
+.b3{animation:d3 19s ease-in-out infinite alternate}
+@keyframes d1{to{transform:translate(180px,70px)}}
+@keyframes d2{to{transform:translate(-200px,-60px)}}
+@keyframes d3{to{transform:translate(-140px,80px)}}
+.spin{transform-origin:800px 170px;animation:spin 48s linear infinite}
+.spinr{transform-origin:800px 170px;animation:spin 32s linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.dash{animation:dash 30s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-480}}
+.up{opacity:0;animation:up 1s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.role{opacity:0;animation:role 14s infinite}
+@keyframes role{0%{opacity:0;transform:translateY(12px)}3%,22%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-12px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.up{opacity:1}.r1{opacity:1}}
+</style>
+<g clip-path="url(#clip)"><rect width="1000" height="340" fill="url(#bg)"/>
+
+<rect width="1000" height="340" fill="url(#dots)" opacity=".18" mask="url(#dotmask)"/>
+<g filter="url(#blur)" opacity=".5">
+<circle class="b1" cx="120" cy="40" r="110" fill="#22B8D6" opacity=".5"/>
+<circle class="b2" cx="620" cy="330" r="150" fill="#34D36B" opacity=".45"/>
+<circle class="b3" cx="900" cy="30" r="120" fill="#3B6CFF" opacity=".5"/>
+</g>
+<circle cx="611" cy="65" r="1.3" fill="#FFF" class="tw" style="animation-delay:0.3s;animation-duration:3.8s"/>
+<circle cx="635" cy="37" r="1.2" fill="#FFF" class="tw" style="animation-delay:0.1s;animation-duration:3.6s"/>
+<circle cx="469" cy="47" r="1.1" fill="#FFF" class="tw" style="animation-delay:3.3s;animation-duration:2.8s"/>
+<circle cx="555" cy="208" r="1.6" fill="#FFF" class="tw" style="animation-delay:2.3s;animation-duration:3.5s"/>
+<circle cx="977" cy="34" r="1.5" fill="#FFF" class="tw" style="animation-delay:1.2s;animation-duration:2.9s"/>
+<circle cx="496" cy="113" r="1.5" fill="#FFF" class="tw" style="animation-delay:0.7s;animation-duration:4.0s"/>
+<circle cx="788" cy="132" r="1.2" fill="#FFF" class="tw" style="animation-delay:0.3s;animation-duration:2.6s"/>
+<circle cx="545" cy="224" r="1.1" fill="#FFF" class="tw" style="animation-delay:1.3s;animation-duration:4.0s"/>
+<circle cx="684" cy="110" r="1.5" fill="#FFF" class="tw" style="animation-delay:2.8s;animation-duration:3.1s"/>
+<circle cx="752" cy="178" r="1.6" fill="#FFF" class="tw" style="animation-delay:2.9s;animation-duration:3.2s"/>
+<circle cx="979" cy="55" r="1.1" fill="#FFF" class="tw" style="animation-delay:3.0s;animation-duration:2.9s"/>
+<circle cx="704" cy="32" r="1.3" fill="#FFF" class="tw" style="animation-delay:3.1s;animation-duration:3.9s"/>
+<circle cx="920" cy="114" r="1.4" fill="#FFF" class="tw" style="animation-delay:2.4s;animation-duration:3.9s"/>
+<circle cx="685" cy="272" r="1.6" fill="#FFF" class="tw" style="animation-delay:1.9s;animation-duration:4.2s"/>
+<circle cx="464" cy="230" r="1.3" fill="#FFF" class="tw" style="animation-delay:4.0s;animation-duration:4.6s"/>
+<circle cx="589" cy="136" r="1.3" fill="#FFF" class="tw" style="animation-delay:0.1s;animation-duration:3.7s"/>
+<circle cx="524" cy="55" r="0.7" fill="#FFF" class="tw" style="animation-delay:3.1s;animation-duration:2.8s"/>
+<circle cx="569" cy="137" r="1.6" fill="#FFF" class="tw" style="animation-delay:0.3s;animation-duration:3.6s"/>
+<circle cx="800" cy="170" r="150" fill="none" stroke="url(#brand)" stroke-opacity=".4" stroke-dasharray="2 10" class="dash"/>
+<circle cx="800" cy="170" r="122" fill="none" stroke="#FFF" stroke-opacity=".06"/>
+<g class="spin"><rect x="712.0" y="82.0" width="176" height="176" fill="none" stroke="url(#brand)" stroke-width="1.6"/><rect x="712.0" y="82.0" width="176" height="176" fill="none" stroke="url(#brand)" stroke-width="1.6" transform="rotate(45 800 170)"/></g>
+<g class="spinr"><rect x="740.0" y="110.0" width="120" height="120" fill="#22B8D6" fill-opacity=".06" stroke="url(#brand)" stroke-opacity=".7"/><rect x="740.0" y="110.0" width="120" height="120" fill="#22B8D6" fill-opacity=".06" stroke="url(#brand)" stroke-opacity=".7" transform="rotate(45 800 170)"/></g>
+<circle cx="800" cy="170" r="46" fill="#0B1726" stroke="url(#brand)" stroke-width="1.6"/>
+<text x="800" y="179" text-anchor="middle" class="mono" font-size="26" font-weight="700" fill="#9EEAFF">&lt;/&gt;</text>
+<circle r="4" fill="#34D36B"><animateMotion dur="12s" repeatCount="indefinite" path="M650,170 a150,150 0 1,1 300,0 a150,150 0 1,1 -300,0"/></circle>
+<circle r="3" fill="#22B8D6"><animateMotion dur="12s" begin="-6s" repeatCount="indefinite" path="M650,170 a150,150 0 1,1 300,0 a150,150 0 1,1 -300,0"/></circle>
+<g class="up" style="animation-delay:.15s"><text x="56" y="86" class="mono" font-size="15" fill="#7FDCF0">// salom, dunyo — hi, I'm</text></g>
+<g class="up" style="animation-delay:.3s"><text x="53" y="152" font-size="64" font-weight="800" letter-spacing="-1" fill="url(#name)">Shakhobiddin</text></g>
+<g class="up" style="animation-delay:.45s"><text x="53" y="218" font-size="64" font-weight="800" letter-spacing="-1" fill="url(#name)">Jalolov</text></g>
+<g class="up" style="animation-delay:.6s"><text x="58" y="262" font-size="20" fill="#34D36B">▸</text><g font-size="20" fill="#D0D7DE"><text class="role r1" x="84" y="262" style="animation-delay:0.0s">React + TypeScript frontends</text>
+<text class="role r2" x="84" y="262" style="animation-delay:3.5s">Oracle APEX &amp; PL/SQL backends</text>
+<text class="role r3" x="84" y="262" style="animation-delay:7.0s">InsurTech: claims · policies · e-docs</text>
+<text class="role r4" x="84" y="262" style="animation-delay:10.5s">A co-op horror game in Unity 6</text></g></g>
+<g class="up" style="animation-delay:.75s"><rect x="56" y="284" width="180" height="30" rx="15" fill="#FFF" fill-opacity=".05" stroke="#22B8D6" stroke-opacity=".45"/><circle cx="72" cy="299" r="4" fill="#22B8D6"/><text x="83" y="304" font-size="13" fill="#C9D1D9">Tashkent, Uzbekistan</text><rect x="246" y="284" width="180" height="30" rx="15" fill="#FFF" fill-opacity=".05" stroke="#34D36B" stroke-opacity=".45"/><circle cx="262" cy="299" r="4" fill="#34D36B"/><text x="273" y="304" font-size="13" fill="#C9D1D9">Full-Stack Developer</text><rect x="436" y="284" width="180" height="30" rx="15" fill="#FFF" fill-opacity=".05" stroke="#F5C451" stroke-opacity=".45"/><circle cx="452" cy="299" r="4" fill="#F5C451"/><text x="463" y="304" font-size="13" fill="#C9D1D9">InsurTech · Game dev</text></g>
+</g><rect x=".5" y=".5" width="999" height="339" rx="17.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</svg>
