@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/languages.svg" width="100%" alt="Lines added in my own commits across 6 recent projects: PL/SQL 48.5%, TypeScript 38.8%, Python 5.2%, JavaScript 3.9%, other 3.5%." />
+  <img src="assets/languages.svg" width="100%" alt="Lines added in my own commits across 6 recent projects: PL/SQL 51.1%, TypeScript 32.6%, Python 9.8%, JavaScript 3.3%, other 3.1%." />
 </p>
 
 <p align="center">
