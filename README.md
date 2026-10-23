@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jalolov-sh&style=flat-square&color=22B8D6&label=profile+views" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="assets/terminal.svg" width="100%" alt="whoami: Shakhobiddin Jalolov, full-stack developer in Tashkent. Stack: React, TypeScript, Tailwind, Oracle, PL/SQL, APEX. Now: InsurTech systems, React apps with AI widgets, and the co-op horror game BOZORLIK: Chorsu tunda." />
 </p>
 
